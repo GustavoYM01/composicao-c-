@@ -1,0 +1,7 @@
+C:\Users\Unknown User\source\repos\comp\comp\bin\Debug\comp.exe.config
+C:\Users\Unknown User\source\repos\comp\comp\bin\Debug\comp.exe
+C:\Users\Unknown User\source\repos\comp\comp\bin\Debug\comp.pdb
+C:\Users\Unknown User\source\repos\comp\comp\obj\Debug\comp.csproj.AssemblyReference.cache
+C:\Users\Unknown User\source\repos\comp\comp\obj\Debug\comp.csproj.CoreCompileInputs.cache
+C:\Users\Unknown User\source\repos\comp\comp\obj\Debug\comp.exe
+C:\Users\Unknown User\source\repos\comp\comp\obj\Debug\comp.pdb
